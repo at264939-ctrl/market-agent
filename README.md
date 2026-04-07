@@ -316,3 +316,13 @@ Contributions welcome! Please:
 ---
 
 **Built with ❤️ using Python, Tavily, ChromaDB, Groq (Llama 3), and Twilio**
+---
+---
+
+## Support me☕
+
+If you find this project helpful and would like to support its development, you can buy me a coffee via PayPal. Your support is greatly appreciated!
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/ncp/payment/FYTDX2XYNGAJ8)
+
+---
